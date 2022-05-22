@@ -126,6 +126,7 @@ Also, we have tried plotting the MAR and EAR graph Vs. Time in order to make the
 
 ## Future Scope:  
 In security for vehicles that only authorized people can operate the automobile vehicles respectively.
+This software can be utilized in driving cars in order to avoid accidents
 
 ## References: 
 [1]Facial landmarks with dlib, OpenCV and Python: https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/ <br>
