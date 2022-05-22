@@ -26,7 +26,7 @@ conda activate env_dlib
 ```bash 
 conda install -c conda-forge dlib 
 ```
-If all these steps are completed successfully, then dlib will be installed in the virtual environment <b>env_dlib</b>. Make sure to use this environment to run the entire project. 
+If all these steps are completed successfully, then dlib will be installed in the virtual environment <b>env_dlib</b>. Make sure to use this environment to run the entire project.
 
 ### Step to deactivate the virtual environment 
 ```bash 
